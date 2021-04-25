@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: WooMS Multi Price integration Add-on
- * Plugin URI: https://github.com/wpcraft-ru/wooms/
+ * Plugin URI: https://github.com/evgrezanov/wooms-wholesale-price-add-on
  * Description: Добавляет механизм сохранения оптовой цены в метаполя продукта
  * Version: 1.0
  */
