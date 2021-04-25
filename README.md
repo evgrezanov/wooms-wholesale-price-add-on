@@ -2,8 +2,8 @@
 Добавляет механизм сохранения оптовой цены в метаполя продукта
 
 ## Для работы плагина установите:
-[WooMS и WooMS Extra] (https://wpcraft-ru.github.io/wooms/)
-[Premmerce Wholesale Pricing for WooCommerce] (https://ru.wordpress.org/plugins/premmerce-woocommerce-wholesale-pricing/)
+[WooMS и WooMS Extra](https://wpcraft-ru.github.io/wooms/)
+[Premmerce Wholesale Pricing for WooCommerce](https://ru.wordpress.org/plugins/premmerce-woocommerce-wholesale-pricing/)
 
 ## Инструкции и документация
 
@@ -18,4 +18,4 @@
 
 - Запустите синхронизацию товаров
 
-*Дополнительная цена будет записыватся в мета поле ced_cwsm_wholesale_price*
+**Дополнительная цена будет записыватся в мета поле _ced_cwsm_wholesale_price_**
