@@ -1,4 +1,4 @@
-# wooms-wholesale-price-add-on
+# WooMS Multi Price integration Add-on
 Добавляет механизм сохранения оптовой цены в метаполя продукта
 
 ## Для работы плагина установите:
